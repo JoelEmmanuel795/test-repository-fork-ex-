@@ -9,6 +9,7 @@
  * @subpackage OPML Parser
  */
 
+
 class OPML {
 	var $file;
 	var $feeds;
@@ -35,5 +36,6 @@ class OPML {
 	function load() {
 		echo "<a href=\"$path_to_opml/". basename($this->file) . "\">Download OPML File</a>";
 	}
+
 }
 ?>
