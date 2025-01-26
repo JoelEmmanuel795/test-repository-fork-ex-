@@ -1,5 +1,5 @@
-<?php
-/**
+<?php 
+/** 
  * OPML Parser
  *
  * @author Clint Ecker <phaedo@phaedo.cx>
@@ -7,7 +7,7 @@
  * @version 1.0.2
  * @package External
  * @subpackage OPML Parser
- */
+ */ 
 
 
 class OPML {
